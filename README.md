@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Abhi axe</h1>
-<h3 align="center">HELLO</h3>
+<div align="center">
+`${Welcome}`
+<p>  
+<p>  
+<p>  
+<p>  
+<p>  
+<p>  
+<p>  
+  
+  <details>
+    <summary>⏬<b>CLICK HERE FOR MORE INFO⏬</b></summary>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrabhiaxe&label=Profile%20views&color=0e75b6&style=flat" alt="mrabhiaxe" /> </p>
+<br>
+    <br>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://bit.ly/3lC8I7t)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrabhiaxe" alt="mrabhiaxe" /></a> </p>
 
-- 📫 How to reach me **axebots@protonmail.com**
+  [![Mrabhiaxe](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mraxe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mraxe_" height="30" width="40" /></a>
-<a href="https://instagram.com/abhi._axe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi._axe" height="30" width="40" /></a>
-</p>
+    
+<div align="left">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    
+- 😜 I’m Abhi axe, 17 years old
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning java script
+- 👯 I’m looking to collaborate on nobody
+- 💬 Ask me about anything. I don't know anything
+- 📫 How to reach me: [E-mail](axebots@protonmail.com), [Instagram](https://www.instagram.com/abhi._axe/)
+-->
